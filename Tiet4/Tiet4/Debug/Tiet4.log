@@ -1,0 +1,11 @@
+﻿  bai2,3.cpp
+D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet4\Tiet4\bai2,3.cpp(45,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet4\Tiet4\bai2,3.cpp(203,6): warning C4101: 'x': unreferenced local variable
+D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet4\Tiet4\bai2,3.cpp(218,6): warning C4101: 'x': unreferenced local variable
+D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet4\Tiet4\bai2,3.cpp(265,64): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet4\Tiet4\bai2,3.cpp(268,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet4\Tiet4\bai2,3.cpp(275,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet4\Tiet4\bai2,3.cpp(308,41): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet4\Tiet4\Treenew.h(47,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet4\Tiet4\bai2,3.cpp(199): message : see reference to function template instantiation 'void AddNodeT<Phanso>(NODET<Phanso> *&,NODET<Phanso> *)' being compiled
+  Tiet4.vcxproj -> D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet4\Debug\Tiet4.exe
