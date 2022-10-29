@@ -1,0 +1,10 @@
+﻿  Bai2.cpp
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Buoi6\Buoi6\Bai2.cpp(187,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Buoi6\Buoi6\Bai2.cpp(188,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Buoi6\Buoi6\Bai2.cpp(230,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Buoi6\Buoi6\Bai2.cpp(247,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Buoi6\Buoi6\Bai2.cpp(192): warning C4715: 'compare': not all control paths return a value
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Buoi6\Buoi6\Bai2.cpp(209): warning C4715: 'Removethan2': not all control paths return a value
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Buoi6\Buoi6\Bai2.cpp(219): warning C4715: 'Removesngt': not all control paths return a value
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Buoi6\Buoi6\RedBlackTree.h(698): warning C4715: 'findBRTNode<PhanSo>': not all control paths return a value
+  Buoi6.vcxproj -> D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Buoi6\Debug\Buoi6.exe

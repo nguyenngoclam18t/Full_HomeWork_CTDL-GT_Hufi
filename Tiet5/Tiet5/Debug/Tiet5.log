@@ -1,0 +1,9 @@
+﻿  bai2.cpp
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet5\Tiet5\bai2.cpp(211,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet5\Tiet5\bai2.cpp(211,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet5\Tiet5\bai2.cpp(259): warning C4715: 'FindX': not all control paths return a value
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet5\Tiet5\bai2.cpp(269): warning C4715: 'Remove_DK': not all control paths return a value
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet5\Tiet5\bai2.cpp(279): warning C4715: 'Remove_DK_2': not all control paths return a value
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet5\Tiet5\Btree.h(41): warning C4715: 'AddNodeT<PhanSo>': not all control paths return a value
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet5\Tiet5\Btree.h(71): warning C4715: 'Remove_X<PhanSo>': not all control paths return a value
+  Tiet5.vcxproj -> D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet5\Debug\Tiet5.exe
