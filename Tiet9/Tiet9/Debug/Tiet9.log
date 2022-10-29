@@ -1,0 +1,9 @@
+﻿  bai4.cpp
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet9\Tiet9\bai4.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet9\Tiet9\HashTable(Open addressing).h(106,7): warning C4101: 'flag': unreferenced local variable
+D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet9\Tiet9\bai4.cpp(37): message : see reference to function template instantiation 'HashNode<Sach> *Find<Sach>(HashNode<Sach> *[],T,int (__cdecl *)(T),int (__cdecl *)(T,T),int)' being compiled
+          with
+          [
+              T=Sach
+          ]
+  Tiet9.vcxproj -> D:\Hoc_Tap\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\Tiet9\Debug\Tiet9.exe

@@ -1,0 +1,10 @@
+MS01#di de tro ve#10#104.1
+MS02#Way back home#20#50
+MS03#how to learn#5#102.2
+MS04#Money#10#123.3
+MS05#girl to hack#10#111.4
+MS06#hacker rank#10#65.5
+MS07#leetcode#10#86.6
+MS08#bruh#10#113.7
+MS09#truyen ma#10#167.8
+MS010#CTDL&GT#10#243.9

@@ -1,0 +1,33 @@
+hello:Xin chao
+bye:tam biet
+student:hoc sinh
+teacher:giao vien
+cute:de thuong
+fat:beo
+look:nhin
+pretty:xinh dep
+tall:cao
+thin:gay
+ugly:xau
+lazy:luoi bieng
+nice:tot
+polite:lich su
+shy:nhut nhat
+fear:noi so
+lonely:co don
+sad:buon
+tired:met
+camera:may anh
+creative:sang tao
+film:phim
+novel:tieu thuyet
+poet:nha tho
+show:buoi bieu dien
+studio:xuong 
+blog:nhat ki truc tuyen
+click:nhap chuot
+computer:may tinh
+ebook:sach dien tu
+email:thu dien tu
+error:loi
+file:tap tin
