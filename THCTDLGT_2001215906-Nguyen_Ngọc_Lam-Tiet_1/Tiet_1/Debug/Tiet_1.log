@@ -1,0 +1,3 @@
+﻿  bai2.cpp
+D:\học tập\hk3\THCTDL&GT\BT\Tiet_1\Tiet_1\bai2.cpp(127,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\học tập\hk3\THCTDL&GT\BT\Tiet_1\Tiet_1\bai2.cpp(137,51): error C2296: '%': illegal, left operand has type 'double'
