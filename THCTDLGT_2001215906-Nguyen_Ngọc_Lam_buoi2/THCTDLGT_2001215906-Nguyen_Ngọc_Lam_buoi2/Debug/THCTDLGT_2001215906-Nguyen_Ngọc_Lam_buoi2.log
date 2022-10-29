@@ -1,0 +1,6 @@
+﻿  bai2.cpp
+  bai3.cpp
+D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\THCTDLGT_2001215906-Nguyen_Ngọc_Lam_buoi2\THCTDLGT_2001215906-Nguyen_Ngọc_Lam_buoi2\bai3.cpp(236,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\THCTDLGT_2001215906-Nguyen_Ngọc_Lam_buoi2\THCTDLGT_2001215906-Nguyen_Ngọc_Lam_buoi2\bai3.cpp(466,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  THCTDLGT_2001215906-Nguyen_Ngọc_Lam_buoi2.vcxproj -> D:\học tập\hk3\thực hành Cấu Trúc Dữ Liệu & Giải thuật\BT\THCTDLGT_2001215906-Nguyen_Ngọc_Lam_buoi2\Debug\THCTDLGT_2001215906-Nguyen_Ngọc_Lam_buoi2.exe
